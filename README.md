@@ -1,2 +1,2 @@
 # myJava
-Our Test  peoject.
+Our Test  project.
